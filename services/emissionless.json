@@ -1,0 +1,22 @@
+{
+	"id": "emissionless",
+	"regions": [
+		{
+			"origin": "us-east-1.emissionless.services",
+			"region": "eastus"
+		},
+		{
+			"origin": "us-west-1.emissionless.services",
+			"region": "westus"
+		},
+		{
+			"origin": "eu-west-1.emissionless.services",
+			"region": "westeurope"
+		},
+		{
+			"origin": "eu-west-2.emissionless.services",
+			"region": "westeurope2"
+		}
+	],
+	"userId": "c3579436-66eb-44aa-af8a-f158c9d77c31"
+}

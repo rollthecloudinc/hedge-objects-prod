@@ -11,6 +11,21 @@
 		"id": {
 			"description": "The unique identifier for a service",
 			"type": "string"
+		},
+		"regions": {
+			"properties": {
+				"origin": {
+					"type": "string"
+				},
+				"region": {
+					"type": "string"
+				}
+			},
+			"required": [
+				"region",
+				"origin"
+			],
+			"type": "object"
 		}
 	},
 	"required": [

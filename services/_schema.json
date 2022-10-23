@@ -4,6 +4,10 @@
 	"description": "A service in the HEDGE catalog",
 	"id": "_schema",
 	"properties": {
+		"defaultRegion": {
+			"description": "The default region to use for the service.",
+			"type": "string"
+		},
 		"id": {
 			"description": "The unique identifier for a service",
 			"type": "string"

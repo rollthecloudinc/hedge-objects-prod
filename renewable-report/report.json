@@ -1,6 +1,6 @@
 {
-	"createdDate": "2022-12-21T06:23:50.274438086Z",
-	"endDate": "2022-12-21T06:28:19.52497099Z",
+	"createdDate": "2022-12-21T06:25:49.340161701Z",
+	"endDate": "2022-12-21T06:30:18.719685419Z",
 	"id": "report",
 	"intensities": {
 		"asia": 0,
@@ -14,7 +14,7 @@
 		"brazilsouth": 0,
 		"brazilsoutheast": 0,
 		"canada": 0,
-		"canadacentral": 474.45761902000004,
+		"canadacentral": 474.00402665,
 		"canadaeast": 449.96363104,
 		"centralindia": 0,
 		"centralus": 615.97843846,
@@ -22,9 +22,9 @@
 		"centralusstage": 0,
 		"eastasia": 0,
 		"eastasiastage": 0,
-		"eastus": 571.9799785700001,
-		"eastus2": 571.9799785700001,
-		"eastus2euap": 571.9799785700001,
+		"eastus": 572.88716331,
+		"eastus2": 572.88716331,
+		"eastus2euap": 572.88716331,
 		"eastus2stage": 0,
 		"eastusstage": 0,
 		"europe": 0,
@@ -44,7 +44,7 @@
 		"korea": 0,
 		"koreacentral": 0,
 		"koreasouth": 0,
-		"northcentralus": 571.9799785700001,
+		"northcentralus": 572.88716331,
 		"northcentralusstage": 0,
 		"northeurope": 110.22294591,
 		"norway": 0,
@@ -79,6 +79,6 @@
 		"westus3": 513.92015521,
 		"westusstage": 0
 	},
-	"startDate": "2022-12-21T06:23:19.524970915Z",
+	"startDate": "2022-12-21T06:25:18.719685345Z",
 	"userId": ""
 }

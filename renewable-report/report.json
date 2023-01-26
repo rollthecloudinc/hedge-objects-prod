@@ -1,6 +1,6 @@
 {
-	"createdDate": "2023-01-26T13:03:42.576930792Z",
-	"endDate": "2023-01-26T13:08:12.457272529Z",
+	"createdDate": "2023-01-26T13:04:17.352122572Z",
+	"endDate": "2023-01-26T13:08:19.14134622Z",
 	"id": "report",
 	"intensities": {
 		"asia": 0,
@@ -22,7 +22,7 @@
 		"centralusstage": 0,
 		"eastasia": 0,
 		"eastasiastage": 0,
-		"eastus": 543.40365926,
+		"eastus": 0,
 		"eastus2": 543.40365926,
 		"eastus2euap": 543.40365926,
 		"eastus2stage": 0,
@@ -79,6 +79,6 @@
 		"westus3": 589.670081,
 		"westusstage": 0
 	},
-	"startDate": "2023-01-26T13:03:12.457272441Z",
+	"startDate": "2023-01-26T13:03:19.141346122Z",
 	"userId": ""
 }

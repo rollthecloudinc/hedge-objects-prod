@@ -1,6 +1,6 @@
 {
-	"createdDate": "2023-01-30T20:23:51.440644986Z",
-	"endDate": "2023-01-30T20:28:18.934311867Z",
+	"createdDate": "2023-01-30T20:25:43.314986427Z",
+	"endDate": "2023-01-30T20:30:13.16488202Z",
 	"id": "report",
 	"intensities": {
 		"asia": 0,
@@ -9,7 +9,7 @@
 		"australiacentral": 813.74471178,
 		"australiacentral2": 813.74471178,
 		"australiaeast": 813.74471178,
-		"australiasoutheast": 513.46656284,
+		"australiasoutheast": 499.85879174,
 		"brazil": 0,
 		"brazilsouth": 0,
 		"brazilsoutheast": 0,
@@ -17,8 +17,8 @@
 		"canadacentral": 487.61179775000005,
 		"canadaeast": 478.53995035,
 		"centralindia": 0,
-		"centralus": 606.4529986900001,
-		"centraluseuap": 606.4529986900001,
+		"centralus": 604.6386292100001,
+		"centraluseuap": 604.6386292100001,
 		"centralusstage": 0,
 		"eastasia": 0,
 		"eastasiastage": 0,
@@ -46,7 +46,7 @@
 		"koreasouth": 0,
 		"northcentralus": 547.93958296,
 		"northcentralusstage": 0,
-		"northeurope": 527.0743339400001,
+		"northeurope": 0,
 		"norway": 0,
 		"norwayeast": 0,
 		"norwaywest": 0,
@@ -73,12 +73,12 @@
 		"westcentralus": 672.67748471,
 		"westeurope": 0,
 		"westindia": 0,
-		"westus": 450.41722341,
-		"westus2": 506.66267729000003,
+		"westus": 449.96363104,
+		"westus2": 506.20908492,
 		"westus2stage": 0,
 		"westus3": 576.5159022700001,
 		"westusstage": 0
 	},
-	"startDate": "2023-01-30T20:23:18.934311782Z",
+	"startDate": "2023-01-30T20:25:13.164881871Z",
 	"userId": ""
 }

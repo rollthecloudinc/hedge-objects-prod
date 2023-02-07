@@ -1,6 +1,6 @@
 {
-	"createdDate": "2023-02-07T17:35:51.474685407Z",
-	"endDate": "2023-02-07T17:40:18.431974847Z",
+	"createdDate": "2023-02-07T17:38:41.274553531Z",
+	"endDate": "2023-02-07T17:43:07.678813822Z",
 	"id": "report",
 	"intensities": {
 		"asia": 0,
@@ -17,7 +17,7 @@
 		"canadacentral": 472.64324954,
 		"canadaeast": 451.32440815,
 		"centralindia": 0,
-		"centralus": 0,
+		"centralus": 690.8211795100001,
 		"centraluseuap": 690.8211795100001,
 		"centralusstage": 0,
 		"eastasia": 0,
@@ -79,6 +79,6 @@
 		"westus3": 576.0623099,
 		"westusstage": 0
 	},
-	"startDate": "2023-02-07T17:35:18.431974762Z",
+	"startDate": "2023-02-07T17:38:07.678813735Z",
 	"userId": ""
 }

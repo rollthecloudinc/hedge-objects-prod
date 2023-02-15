@@ -1,6 +1,6 @@
 {
-	"createdDate": "2023-02-15T06:00:50.76830741Z",
-	"endDate": "2023-02-15T06:05:18.305668621Z",
+	"createdDate": "2023-02-15T06:03:38.044350938Z",
+	"endDate": "2023-02-15T06:08:10.54074874Z",
 	"id": "report",
 	"intensities": {
 		"asia": 0,
@@ -58,7 +58,7 @@
 		"southeastasia": 0,
 		"southeastasiastage": 0,
 		"southindia": 0,
-		"swedencentral": 0,
+		"swedencentral": 198.67345806,
 		"switzerland": 0,
 		"switzerlandnorth": 0,
 		"switzerlandwest": 0,
@@ -79,6 +79,6 @@
 		"westus3": 543.40365926,
 		"westusstage": 0
 	},
-	"startDate": "2023-02-15T06:00:18.305668546Z",
+	"startDate": "2023-02-15T06:03:10.540748654Z",
 	"userId": ""
 }

@@ -1,6 +1,6 @@
 {
-	"createdDate": "2023-02-15T18:00:57.155516985Z",
-	"endDate": "2023-02-15T18:05:25.289421192Z",
+	"createdDate": "2023-02-15T18:03:47.013728015Z",
+	"endDate": "2023-02-15T18:08:16.643941189Z",
 	"id": "report",
 	"intensities": {
 		"asia": 0,
@@ -71,7 +71,7 @@
 		"unitedstates": 0,
 		"unitedstateseuap": 0,
 		"westcentralus": 680.388555,
-		"westeurope": 0,
+		"westeurope": 506.66267729000003,
 		"westindia": 0,
 		"westus": 22.6796185,
 		"westus2": 533.4246271200001,
@@ -79,6 +79,6 @@
 		"westus3": 584.68056493,
 		"westusstage": 0
 	},
-	"startDate": "2023-02-15T18:00:25.289421118Z",
+	"startDate": "2023-02-15T18:03:16.643941102Z",
 	"userId": ""
 }

@@ -1,6 +1,6 @@
 {
-	"createdDate": "2023-02-16T01:45:55.608281521Z",
-	"endDate": "2023-02-16T01:50:26.195750849Z",
+	"createdDate": "2023-02-16T01:48:48.341457065Z",
+	"endDate": "2023-02-16T01:53:18.872164793Z",
 	"id": "report",
 	"intensities": {
 		"asia": 0,
@@ -33,7 +33,7 @@
 		"francesouth": 0,
 		"germany": 0,
 		"germanynorth": 711.6864285300001,
-		"germanywestcentral": 0,
+		"germanywestcentral": 711.6864285300001,
 		"global": 0,
 		"india": 0,
 		"japan": 0,
@@ -79,6 +79,6 @@
 		"westus3": 586.04134204,
 		"westusstage": 0
 	},
-	"startDate": "2023-02-16T01:45:26.195750757Z",
+	"startDate": "2023-02-16T01:48:18.872164711Z",
 	"userId": ""
 }

@@ -1,6 +1,6 @@
 {
-	"createdDate": "2023-03-01T04:10:44.065592463Z",
-	"endDate": "2023-03-01T04:15:15.179842301Z",
+	"createdDate": "2023-03-01T04:13:45.555762706Z",
+	"endDate": "2023-03-01T04:18:18.931637234Z",
 	"id": "report",
 	"intensities": {
 		"asia": 0,
@@ -46,7 +46,7 @@
 		"koreasouth": 0,
 		"northcentralus": 572.43357094,
 		"northcentralusstage": 0,
-		"northeurope": 0,
+		"northeurope": 500.31238411000004,
 		"norway": 0,
 		"norwayeast": 0,
 		"norwaywest": 0,
@@ -79,6 +79,6 @@
 		"westus3": 553.3826914,
 		"westusstage": 0
 	},
-	"startDate": "2023-03-01T04:10:15.179842227Z",
+	"startDate": "2023-03-01T04:13:18.931637145Z",
 	"userId": ""
 }

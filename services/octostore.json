@@ -25,7 +25,7 @@
 		{
 			"origin": "norway-hedge.azurewebsites.net",
 			"paths": [
-				"*/shapeshifter/*"
+				"**/shapeshifter/**"
 			],
 			"region": "norway"
 		}

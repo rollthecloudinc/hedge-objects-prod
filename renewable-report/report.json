@@ -1,6 +1,6 @@
 {
-	"createdDate": "2023-04-19T17:10:52.903654389Z",
-	"endDate": "2023-04-19T17:15:21.965570797Z",
+	"createdDate": "2023-04-19T17:13:45.877010471Z",
+	"endDate": "2023-04-19T17:18:16.198069953Z",
 	"id": "report",
 	"intensities": {
 		"asia": 0,
@@ -53,7 +53,7 @@
 		"southafrica": 0,
 		"southafricanorth": 0,
 		"southafricawest": 0,
-		"southcentralus": 0,
+		"southcentralus": 507.11626966,
 		"southcentralusstage": 0,
 		"southeastasia": 0,
 		"southeastasiastage": 0,
@@ -79,6 +79,6 @@
 		"westus3": 555.19706088,
 		"westusstage": 0
 	},
-	"startDate": "2023-04-19T17:10:21.965570723Z",
+	"startDate": "2023-04-19T17:13:16.198069868Z",
 	"userId": ""
 }

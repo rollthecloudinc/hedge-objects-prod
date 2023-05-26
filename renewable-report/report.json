@@ -1,6 +1,6 @@
 {
-	"createdDate": "2023-05-26T19:05:44.898497544Z",
-	"endDate": "2023-05-26T19:10:14.281861275Z",
+	"createdDate": "2023-05-26T19:08:46.90030572Z",
+	"endDate": "2023-05-26T19:13:18.936994349Z",
 	"id": "report",
 	"intensities": {
 		"asia": 0,
@@ -15,7 +15,7 @@
 		"brazilsoutheast": 0,
 		"canada": 0,
 		"canadacentral": 442.70615312,
-		"canadaeast": 0,
+		"canadaeast": 427.73760491,
 		"centralindia": 0,
 		"centralus": 664.5128220500001,
 		"centraluseuap": 664.5128220500001,
@@ -46,7 +46,7 @@
 		"koreasouth": 0,
 		"northcentralus": 609.62814528,
 		"northcentralusstage": 0,
-		"northeurope": 0,
+		"northeurope": 538.86773556,
 		"norway": 561,
 		"norwayeast": 0,
 		"norwaywest": 0,
@@ -79,6 +79,6 @@
 		"westus3": 530.24948053,
 		"westusstage": 0
 	},
-	"startDate": "2023-05-26T19:05:14.281861188Z",
+	"startDate": "2023-05-26T19:08:18.936994261Z",
 	"userId": ""
 }

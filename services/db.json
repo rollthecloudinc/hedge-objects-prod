@@ -1,0 +1,34 @@
+{
+	"defaultRegion": "eastus",
+	"id": "db",
+	"regions": [
+		{
+			"origin": "us-east-1.climateaware.eco",
+			"region": "eastus"
+		},
+		{
+			"origin": "us-west-1.climateaware.eco",
+			"region": "westus"
+		},
+		{
+			"origin": "eu-west-1.climateaware.eco",
+			"region": "ukwest"
+		},
+		{
+			"origin": "eu-west-2.climateaware.eco",
+			"region": "uknorth"
+		},
+		{
+			"origin": "ca-central-1.climateaware.eco",
+			"region": "canadacentral"
+		},
+		{
+			"origin": "norway.climateaware.eco",
+			"paths": [
+				"**/shapeshifter/**"
+			],
+			"region": "norway"
+		}
+	],
+	"userId": "c3579436-66eb-44aa-af8a-f158c9d77c31"
+}

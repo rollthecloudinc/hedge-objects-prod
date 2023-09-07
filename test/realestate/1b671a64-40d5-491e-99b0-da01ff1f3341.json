@@ -1,0 +1,26 @@
+{
+	"id": "1b671a64-40d5-491e-99b0-da01ff1f3341",
+	"listing": {
+		"description": "A luxurious 3 BHK apartment located in the heart of the city, equipped with modern amenities. Great view of the downtown skyline.",
+		"listingStatus": "Available",
+		"photos": [
+			"image1_url",
+			"image2_url"
+		],
+		"property": {
+			"area": "Downtown, NY",
+			"bathrooms": 2,
+			"bedrooms": 3,
+			"price": 500000,
+			"propertyType": "Apartment",
+			"squareFeet": 1500,
+			"yearBuilt": 2015
+		},
+		"seller": {
+			"contact": "john@example.com",
+			"name": "John Doe",
+			"sellerId": "seller456"
+		}
+	},
+	"userId": "c3579436-66eb-44aa-af8a-f158c9d77c31"
+}
